@@ -35,8 +35,7 @@ In conclusion, MedBridge is a comprehensive hospital management system website t
 
 ## Authors
 
-- [@Meet Jain](zhttps://github.com/MJ665)
-- [@Rajesh Chauhan](zhttps://github.com/MJ665)
-- [@Ayush Khanal](zhttps://github.com/MJ665)
-
+- [@Meet Jain]
+- [@Rajesh Chauhan]
+- [@Ayush Khanal]
 
